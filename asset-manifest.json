@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CHUCK-NORRICE-API/static/css/main.2e19dfe5.chunk.css",
+    "main.js": "/CHUCK-NORRICE-API/static/js/main.51531b11.chunk.js",
+    "main.js.map": "/CHUCK-NORRICE-API/static/js/main.51531b11.chunk.js.map",
+    "runtime-main.js": "/CHUCK-NORRICE-API/static/js/runtime-main.ac342904.js",
+    "runtime-main.js.map": "/CHUCK-NORRICE-API/static/js/runtime-main.ac342904.js.map",
+    "static/js/2.5971b602.chunk.js": "/CHUCK-NORRICE-API/static/js/2.5971b602.chunk.js",
+    "static/js/2.5971b602.chunk.js.map": "/CHUCK-NORRICE-API/static/js/2.5971b602.chunk.js.map",
+    "index.html": "/CHUCK-NORRICE-API/index.html",
+    "static/css/main.2e19dfe5.chunk.css.map": "/CHUCK-NORRICE-API/static/css/main.2e19dfe5.chunk.css.map",
+    "static/js/2.5971b602.chunk.js.LICENSE.txt": "/CHUCK-NORRICE-API/static/js/2.5971b602.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac342904.js",
+    "static/js/2.5971b602.chunk.js",
+    "static/css/main.2e19dfe5.chunk.css",
+    "static/js/main.51531b11.chunk.js"
+  ]
+}
