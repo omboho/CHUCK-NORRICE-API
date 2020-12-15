@@ -1,0 +1,35 @@
+body{
+    background-color: beige;
+    text-align: center;
+}
+
+img{
+    margin-top: 40px;
+    max-width: 100%;
+}
+
+.title{
+    color: teal;
+    text-transform: uppercase;
+    font-size: 50px;
+    text-shadow: 3px 2px rgb(0, 0, 0);
+}
+
+.Card{
+    margin-top: 50px;
+}
+
+.btn{
+    margin-top: 60px;
+}
+
+h4{
+    color:black;
+}
+
+.subtitle{
+    font-size: 40px;
+    margin-top: 60px;
+    color: black;
+    text-transform: uppercase;
+}
